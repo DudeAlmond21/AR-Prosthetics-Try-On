@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Project/Scenes/TitleScene.unity
+    guid: 297adcb0959801d4c81cc020285f136c
+  - enabled: 1
+    path: Assets/_Project/Scenes/MainMenuScene.unity
+    guid: 99f18d012c64d1742b3944605147db20
+  - enabled: 1
+    path: Assets/_Project/Scenes/ModesScene.unity
+    guid: 871830e70883dba4f91209462ccf7ef9
+  - enabled: 1
+    path: Assets/_Project/Scenes/LevelSelectionScene.unity
+    guid: 763f90f06017626458719d448b88136d
+  - enabled: 1
+    path: Assets/_Project/Scenes/CustomizationScene.unity
+    guid: 3060ad4cc98336b47902fe76a85c4799
+  - enabled: 1
+    path: Assets/_Project/Scenes/IMUConnectionScene.unity
+    guid: cad1b2ccfe2a0dc46ac7ba3aa5e79834
+  - enabled: 1
+    path: Assets/_Project/Scenes/CalibrationScene.unity
+    guid: ce6780966b71ce7438b671dae1bf6181
+  - enabled: 1
+    path: Assets/_Project/Scenes/ARTryOnScene.unity
+    guid: c43e62009c17ae547ba3333b37fcc3e5
+  - enabled: 1
+    path: Assets/_Project/Scenes/SimulationScene.unity
+    guid: 7ad497ba5bc807649a9bb538c661c556
+  - enabled: 1
+    path: Assets/_Project/Scenes/TestsScene.unity
+    guid: 09c5f0cd13d942949b12420716062fde
+  - enabled: 1
+    path: Assets/_Project/Scenes/ExtrasScene.unity
+    guid: 8168489ed4511d5439b49e94479c43f7
+  - enabled: 1
+    path: Assets/_Project/Scenes/ProstheticTypeScene.unity
+    guid: 7b3b352413daee24cb85114006a23c83
+  m_configObjects:
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: ffcc1a902d97569469bb8f0993f27ac2, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 746dcbd2ec763984f965729bf2e0bdb1, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fd42248e8bcd46947ad5d89e62a9d542, type: 2}
