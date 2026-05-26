@@ -180,6 +180,14 @@ Install:
 
 ---
 
+# IEEE Research Paper
+
+The research paper associated with this project can be accessed here:
+
+[IEEE Paper Link](https://ieeexplore.ieee.org/document/11308017)
+
+---
+
 # Credits
 
 ## Prosthetic Models
